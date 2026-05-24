@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Deshpande</h1>
-<h3 align="center">A passionate Java Backend Engineer from India, specializing in scalable microservices and intelligent event-driven platforms.</h3>
+<h3 align="center">A passionate Java Backend Engineer , specializing in scalable microservices and intelligent event-driven platforms.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" alt="Experience" />
